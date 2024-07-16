@@ -1,7 +1,11 @@
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
-
+<img decoding="async" data-lazy-srcset="my-image-small.jpg 480w,
+             my-image-medium.jpg 800w,
+             my-image-large.jpg 1200w" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="A Responsive Landscape Photo" title="My Image Medium How To Add An Image Html" data-lazy-src="my-image-medium.jpg"><noscript><img decoding="async" srcset="my-image-small.jpg 480w,
+             my-image-medium.jpg 800w,
+             my-image-large.jpg 1200w" src="my-image-medium.jpg" alt="A Responsive Landscape Photo" title="My Image Medium How To Add An Image Html"></noscript>
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube">
